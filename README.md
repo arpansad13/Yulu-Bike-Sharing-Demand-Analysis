@@ -7,3 +7,7 @@
 **Problem Statement**
 *  Yulu has recently suffered considerable dips in its revenues. Yulu have contracted a consulting company to understand the factors on which the demand for these shared electric cycles depends. Specifically, Yulu want to understand the factors affecting the demand for these shared electric cycles in the Indian market.
 *  What are the factors affecting Yulu's revenues and on what factors the demand of these electric bikes depends in the Indian market.
+
+
+**My Solution And Approach**
+https://colab.research.google.com/drive/1lx9LaqQ76UmokZzIcwKbYCEi_oUZfGjb?usp=sharing
